@@ -1,7 +1,7 @@
 # Lesson Plan
 1. Revision of tags such as `<h1>`, `<p>`, `<ul>`, `<ol>` and `<li>`.
 2. Distribute file skeleton given on a USB on to Desktop. Make sure the mentor does this themself, to make sure it is done properly.
- - make sure each mentor has this on their USB before the class - 
+ - make sure each mentor has this on their USB before the class.
 3. Revise skeleton structure for HTML, such as default tags required, etc.
 4. Create basic HTML.
 5. Add `<h1>` and `<h2>` and `<p>` tags and enter text.
